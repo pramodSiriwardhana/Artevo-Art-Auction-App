@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984637247424",
+    "project_id": "artevoauctionapp",
+    "storage_bucket": "artevoauctionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984637247424:android:799e2094accfb8b7274225",
+        "android_client_info": {
+          "package_name": "lk.nibm.hdse242ft.artauctionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0KVkh51ltadpgHyAJgLuHDGLFioWuSBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

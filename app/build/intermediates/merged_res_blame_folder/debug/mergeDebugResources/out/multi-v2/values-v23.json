@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "lk.nibm.hdse242ft.artauctionapp-mergeDebugResources-67:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.13\\transforms\\9c4139c92df02d62a35eb6d51f266fbc\\transformed\\work-runtime-2.9.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

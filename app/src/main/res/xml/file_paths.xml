@@ -1,0 +1,11 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- SignUp Screen Profile Photo -->
+    <cache-path
+        name="my_images"
+        path="profile_images/"/>
+
+    <!-- List New Artwork Upload Photo -->
+    <cache-path
+        name="profile_images"
+        path="profile_images/"/>
+</paths>
